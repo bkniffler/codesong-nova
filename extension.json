@@ -1,0 +1,9 @@
+{
+  "identifier": "kniffler.codesong",
+  "name": "codesong",
+  "organization": "Kniffler",
+  "description": "A copy of Connor Peet's vscode theme Codesong, but for nova.",
+  "version": "1.0",
+  "categories": ["themes"],
+  "bugs": "https://github.com/bkniffler/codesong-nova/issues"
+}
