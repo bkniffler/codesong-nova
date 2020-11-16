@@ -14,15 +14,7 @@ Let's get started!
 
 **codesong** provides a fun, bright palette:
 
-![](https://nova.app/images/en/dark/editor.png)
-
-<!--
-🎈 If your extension provides multiple variations, don't forget to show those too!
--->
-
-codesong also offers a lighter alternative:
-
-![](https://nova.app/images/en/light/editor.png)
+![](/Images/extension/image.png)
 
 ## Acknowledgements
 
@@ -30,4 +22,4 @@ codesong also offers a lighter alternative:
 🎈 If your theme is based on existing work by someone else, consider crediting the original author
 -->
 
-codesong is based on _Original codesong_ by [Lauren Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum).
+A copy of Connor Peet's [vscode theme Codesong](https://vscodethemes.com/e/connor4312.codesong), but for nova
